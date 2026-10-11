@@ -1,0 +1,11 @@
+# Computer vision, webcam capture, and the bundled Haar cascade XML files.
+opencv-python-headless>=4.9.0,<5
+
+# Local web interface for upload, camera photo, and live preview.
+streamlit>=1.38.0,<2
+
+# Array operations used together with OpenCV.
+numpy>=1.26.0,<3
+
+# Unit tests. Not required to run the app.
+pytest>=8.0.0,<9
